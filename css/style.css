@@ -31,3 +31,8 @@
     background-color: red;
     height: 20px;
 }
+
+.col-xs-10.black{
+    background-color: black;
+    height: 20px;
+}
