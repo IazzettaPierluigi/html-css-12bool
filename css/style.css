@@ -1,38 +1,52 @@
-.col-xs-12{
-    background-color: #6d7c89;
-    height: 20px;
+.container{
+    margin-top: 100px;
+}
+
+.col-xs-offset-2{
+    height: 50px;
+}
+
+.col-xs-4{
+    background-color: black;
 }
 
 .col-xs-1{
-    background-color: #6d7c89;
-    height: 20px;
-}
-
-.col-xs-3.black{
     background-color: black;
-    height: 20px;
-}
-.col-xs-4.grey{
-    background-color: #6d7c89;
-    height: 20px;
+    height: 50px;
 }
 
-.col-xs-4.black{
-    background-color: black;
-    height: 20px;
-}
-
-.col-xs-3.black .row .col-xs-2.black{
-    background-color: black;
-    height: 20px;
-}
-
-.col-xs-3.black .row .col-xs-8.red{
+.col-xs-4.red{
     background-color: red;
-    height: 20px;
 }
 
-.col-xs-10.black{
+.col-xs-2.black{
     background-color: black;
-    height: 20px;
+}
+
+.col-xs-10.red{
+    background-color: red;
+}
+
+.col-xs-8{
+    background-color: red;
+}
+
+.col-xs-6{
+    background-color: red;
+}
+
+.col-xs-4.red{
+    background-color: red;
+}
+
+.col-xs-2{
+    background-color: red;
+}
+
+.col-xs-offset-5{
+    height: 50px;
+}
+
+.col-xs-1.red{
+    background-color: red;
 }
